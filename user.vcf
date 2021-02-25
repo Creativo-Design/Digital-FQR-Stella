@@ -3,10 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Amador;Stella;;;
 FN: Stella  Amador 
-Florida Quality Roofing;
+ORG:Florida Quality Roofing;
 TITLE:Owner/Vice President
 EMAIL;type=INTERNET;type=WORK;type=pref:stella@floridaqualityroofing.com
-TEL;type=WORK;type=VOICE:305 306-7663
+TEL;type=WORK;type=VOICE:305 306 7663
 item1.ADR;type=WORK;type=pref:;;2421 NE 4th Ave View\nSandcrawler\, Pomano Beach;;;33064;Florida
 item1.X-ABADR:sg
 item2.URL;type=pref:floridaqualityroofing.com
