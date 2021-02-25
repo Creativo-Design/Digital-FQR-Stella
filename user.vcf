@@ -7,7 +7,7 @@ ORG:Florida Quality Roofing;
 TITLE:Owner/Vice President
 EMAIL;type=INTERNET;type=WORK;type=pref:stella@floridaqualityroofing.com
 TEL;type=WORK;type=VOICE:305 306 7663
-item1.ADR;type=WORK;type=pref:;;2421 NE 4th Ave View\nSandcrawler\, Pomano Beach;;;33064;Florida
+item1.ADR;type=WORK;type=pref:;;2421 NE 4th Ave, Pomano Beach;;;33064;Florida
 item1.X-ABADR:sg
 item2.URL;type=pref:floridaqualityroofing.com
 item2.X-ABLabel:_$!<HomePage>!$_
